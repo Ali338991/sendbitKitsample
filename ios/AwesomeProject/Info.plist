@@ -48,6 +48,12 @@
 			</dict>
 		</dict>
 	</dict>
+	  <key>NSCameraUsageDescription</key>
+  <string>Need you camera permission</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	  <string>Need you camera permission</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	  <string>Need you camera permission</string>
 	<key>NSContactsUsageDescription</key>
 	<string>This enables you to dial your contacts from the app and view contacts in call logs and messages.</string>
 	<key>NSMicrophoneUsageDescription</key>
